@@ -41,7 +41,7 @@ format:
 ::: {.column} 
 
 * [Cody](https://sourcegraph.com/cody)
-* [BaclBox](https://www.blackbox.ai/)
+* [BacclBox](https://www.blackbox.ai/)
 * [Codeium](https://codeium.com/)
 
 * **GitHub Copilot**
