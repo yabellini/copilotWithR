@@ -1,8 +1,21 @@
 ---
 title: "Using GitHub Copilot (and other LLM) with R"
 author: "Yani Bellini Saibene"
-format: revealjs
+format: 
+  revealjs:
+    footer: "R-Ladies Rome Meetup - Yani Bellini Saibene (yabellini@ropensci.org)"
 ---
+
+## Who I'm ? :-) 
+
+* [rOpenSci](https://rladies.org) Community Manager.
+
+* [R-Ladies](https://rladies.org) Leadership Team.
+
+* [GitHub Star](https://stars.github.com/profiles/yabellini/).
+
+* [The Carpentries](https://carpentries.org) Instructor, Trainer and Boar of Director Vice chair. 
+
 
 ## AI-Assisted Programing
 
@@ -142,3 +155,10 @@ Is emerging as a risk to developer experience.
 * [Jon Udell series on using LLMs to code](https://blog.jonudell.net/2024/01/14/7-guiding-principles-for-working-with-llms/)
 
 * [Learn AI-Assisted Python Programming](https://www.manning.com/books/learn-ai-assisted-python-programming). Leo Porter and Daniel Zingaro.
+
+### Contact info
+* [@yabellini.bsky.social](https://bsky.app/profile/yabellini.bsky.social)
+* [@yabellini@fosstodon.org](https://fosstodon.org/@yabellini)
+* [https://yabellini.netlify.app](https://yabellini.netlify.app)
+
+### Thank you!!!
